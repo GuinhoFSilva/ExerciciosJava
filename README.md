@@ -12,7 +12,7 @@ Os exercícios abordam diferentes aspectos da linguagem Java, como:
 - Métodos e modularização
 - Uso do Scanner para entrada de dados
 
-Cada exercício contém um código funcional e está organizado de forma a facilitar o entendimento e o aprendizado.
+Cada exercício contém um código funcional e está organizado de forma a facilitar o entendimento e o aprendizado. Nota Importante: Os exercícios apresentados neste repositório foram originalmente passados pelo meu professor como exercícios de JavaScript e foram adaptados para a linguagem Java, com o objetivo de reforçar os conceitos passados anteriormente e fixar a sintaxe da linguagem Java.
 
 # 📘 Exercícios 
 - Exercício 1: Comparar dois números e determinar o maior.
@@ -22,3 +22,5 @@ Cada exercício contém um código funcional e está organizado de forma a facil
 - Exercício 5: Contar a quantidade de dígitos de um número.
 - Exercício 6: Verificar se um número é divisível por 3.
 - Exercício 7: Contar a quantidade de vogais em uma frase.
+- Exercício 8: Retornar o valor absoluto de um número.
+- Exercício 9: Verificar se um número é primo. 

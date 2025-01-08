@@ -23,4 +23,19 @@ Cada exercício contém um código funcional e está organizado de forma a facil
 - Exercício 6: Verificar se um número é divisível por 3.
 - Exercício 7: Contar a quantidade de vogais em uma frase.
 - Exercício 8: Retornar o valor absoluto de um número.
-- Exercício 9: Verificar se um número é primo. 
+- Exercício 9: Verificar se um número é primo.
+  
+# 📺 Exercício: Classe SmartTV
+Este desafio tem como objetivo a criação de uma classe que represente uma SmartTV com as seguintes características:
+
+Características da TV:
+-  Ligada (boolean)
+- Canal (int)
+- Volume (int)
+- A TV poderá ligar e desligar e assim mudar o estado ligada.
+- A TV aumentará e diminuirá o volume sempre em +1 ou -1
+- A TV poderá mudar de canal de 1 em 1 ou definindo o número correspondente.
+
+# Objetivo do Desafio
+O desafio é voltado para iniciantes em Java e possuí como objetivo a prática e fixação de conceitos básicos.
+

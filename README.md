@@ -13,3 +13,12 @@ Os exercícios abordam diferentes aspectos da linguagem Java, como:
 - Uso do Scanner para entrada de dados
 
 Cada exercício contém um código funcional e está organizado de forma a facilitar o entendimento e o aprendizado.
+
+# 📘 Exercícios 
+- Exercício 1: Comparar dois números e determinar o maior.
+- Exercício 2: Verificar se um número é par ou ímpar.
+- Exercício 3: Determinar se um número é positivo, negativo ou zero.
+- Exercício 4: Realizar uma operação matemática entre três números.
+- Exercício 5: Contar a quantidade de dígitos de um número.
+- Exercício 6: Verificar se um número é divisível por 3.
+- Exercício 7: Contar a quantidade de vogais em uma frase.

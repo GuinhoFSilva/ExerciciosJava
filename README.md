@@ -1,7 +1,7 @@
 
 # Exercícios de Java
 
-Este repositório foi criado para salvar e compartilhar exercícios básicos de Java, voltados para a fixação da sintaxe e conceitos fundamentais da linguagem.
+Este repositório foi criado para salvar e compartilhar exercícios básicos de Java, voltados para a fixação da sintaxe e conceitos fundamentais da linguagem. Ele é especialmente voltado para iniciantes.
 
 # 📚 Sobre os Exercícios
 Os exercícios abordam diferentes aspectos da linguagem Java, como:

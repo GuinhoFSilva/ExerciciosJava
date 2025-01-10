@@ -12,7 +12,7 @@ Os exercícios abordam diferentes aspectos da linguagem Java, como:
 - Métodos e modularização
 - Uso do Scanner para entrada de dados
 
-Cada exercício contém um código funcional e está organizado de forma a facilitar o entendimento e o aprendizado. Nota Importante: Os exercícios apresentados neste repositório foram originalmente passados pelo meu professor como exercícios de JavaScript e foram adaptados para a linguagem Java, com o objetivo de reforçar os conceitos passados anteriormente e fixar a sintaxe da linguagem.
+Cada exercício contém um código funcional e está organizado de forma a facilitar o entendimento e o aprendizado. Nota Importante: Algunss exercícios apresentados neste repositório foram originalmente passados pelo meu professor como exercícios de JavaScript e foram adaptados para a linguagem Java, com o objetivo de reforçar os conceitos passados anteriormente e fixar a sintaxe da linguagem.
 
 # 📘 Exercícios 
 - Exercício 1: Comparar dois números e determinar o maior.
@@ -24,6 +24,11 @@ Cada exercício contém um código funcional e está organizado de forma a facil
 - Exercício 7: Contar a quantidade de vogais em uma frase.
 - Exercício 8: Retornar o valor absoluto de um número.
 - Exercício 9: Verificar se um número é primo.
+- Exercício 10: Ler dois valores inteiros A e B, se forem iguais, somar e armazenar em C; caso contrário, multiplicar e armazenar em C. Exibir o valor de C.
+- Exercício 11: Calcular quantos salários mínimos o usuário ganha.
+- Exercício 12: Aplicar um reajuste de 5% a um número.
+- Exercício 13: Verificar se dois valores booleanos são verdadeiros ou falsos.
+- Exercício 14: Ordenar três números em ordem decrescente.
   
 # 📺 Exercício: Classe SmartTV
 Este desafio tem como objetivo a criação de uma classe que represente uma SmartTV com as seguintes características:

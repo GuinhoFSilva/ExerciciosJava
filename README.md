@@ -29,6 +29,8 @@ Cada exercício contém um código funcional e está organizado de forma a facil
 - Exercício 12: Aplicar um reajuste de 5% a um número.
 - Exercício 13: Verificar se dois valores booleanos são verdadeiros ou falsos.
 - Exercício 14: Ordenar três números em ordem decrescente.
+- Exercício 15: Ler um valor inteiro e imprimir sua tabuada até o limite informado pelo usuário.
+- Exercício 16: Conversão de temperatura de Fahrenheit para Celsius, com cálculos precisos.
   
 # 📺 Exercício: Classe SmartTV
 Este desafio tem como objetivo a criação de uma classe que represente uma SmartTV com as seguintes características:

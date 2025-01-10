@@ -10,10 +10,6 @@ public class ExercicioQuinze{
             System.out.println("Informe até qual número o primeiro valor será tabulado");
             int limitador = scanner.nextInt();
 
-            if(limitador <= 0){
-                ;
-            }
-
             for(int i = 0; i <= limitador; i++){
                 System.out.println(valor + " x " + i + " = " + (i * valor));
             }

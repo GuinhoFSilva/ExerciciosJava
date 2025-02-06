@@ -137,5 +137,33 @@ Calcula a soma dos dígitos únicos de um número, ignorando repetições.
 Entrada: `12134`  
 Saída: `10`  
 *(1 + 2 + 3 + 4)*  
+
+### Exercício 23: Produto dos Dígitos Ímpares
+Recebe um número inteiro e retorna o produto dos seus dígitos ímpares.
+
+**Exemplo de uso:**  
+Entrada: `1523`  
+Saída: `15`  
+*(1 * 5 * 3)*
+
+### Exercício 24: Palíndromo
+Recebe uma palavra e verifica se ela é um palíndromo (igual quando lido de trás para frente).
+**Exemplo de uso:**  
+Entrada: `Arara`  
+Saída: `É um palíndromo`  
+
+### Exercício 25: Contagem de Vogais e Consoantes
+Recebe uma palavra ou frase e retorna a quantidade de vogais e consoantes.  
+**Exemplo de uso:**
+Entrada: `Java é top`  
+Saída: `Vogais: 4, Consoantes: 4`
+
+### Exercício 26: Soma dos Quadrados dos Dígitos
+Recebe um número inteiro e retorna a soma do quadrado de cada dígito.  
+**Exemplo de uso:**  
+Entrada: `123`  
+Saída: `14`  
+*(1² + 2² + 3²)*
+
   
 
